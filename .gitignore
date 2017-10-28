@@ -60,3 +60,14 @@ typings/
 .env
 
 
+.gitignore
+.idea/
+app.js
+bin/
+model/
+package-lock.json
+package.json
+public/
+routes/
+views/
+yarn.lock
